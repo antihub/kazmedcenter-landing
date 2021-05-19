@@ -11,7 +11,7 @@ const SubHeader = () => {
             </LeftSide>
             <RightSide>
                 <Call style={{ marginRight: '7px' }}/>
-                <a href="tel:+77777777777">+7 (777) 777 77 77</a>
+                <a href="tel:+77753747985">+7 (775) 374 79 85</a>
             </RightSide>
         </StyledSubHeader>
     );
