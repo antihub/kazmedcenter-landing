@@ -7,7 +7,7 @@ const SubHeader = () => {
         <StyledSubHeader>
             <LeftSide>
                 <Room style={{ marginRight: '7px' }}/>
-                Абылай хана 1/1, СДУ , F201
+                Желтоксан, 44
             </LeftSide>
             <RightSide>
                 <Call style={{ marginRight: '7px' }}/>
